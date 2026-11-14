@@ -1,0 +1,3 @@
+-- Compatibility note:
+-- The canonical v1 schema lives in sql/schema.sql.
+-- scripts/init_db.py executes that file directly.

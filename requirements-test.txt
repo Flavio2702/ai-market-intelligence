@@ -1,0 +1,6 @@
+pytest
+python-dotenv
+SQLAlchemy
+psycopg[binary]
+pydantic>=2,<3
+PyYAML

@@ -1,0 +1,4 @@
+name,website,category,country,notes,is_owned_domain
+Demo Aurora,https://aurora.example,Audio workflow,Italy,Fictional demonstration only,true
+Demo Boreale,https://boreale.example,Audio workflow,Italy,Fictional demonstration only,false
+Demo Cedro,https://cedro.example,Audio workflow,Italy,Fictional demonstration only,false

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "explicit_manual_exports_take_hours",
+    "expected_evidence_type": "explicit",
+    "expected_category": "manual work",
+    "markdown": "Manual exports take hours after every Pro Tools session, and assistants still have to clean up stems by hand before delivery.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "explicit_repetitive_bounce_work",
+    "expected_evidence_type": "explicit",
+    "expected_category": "repetitive workflow",
+    "markdown": "Mix engineers lose time repeating the same bounce setup for every cue, creating repetitive work across large delivery batches.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "explicit_review_notes_scattered",
+    "expected_evidence_type": "explicit",
+    "expected_category": "review friction",
+    "markdown": "Review notes arrive in email, chat, and spreadsheets, so editors miss feedback and revisions are hard to track.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "explicit_license_activation_blocks_team",
+    "expected_evidence_type": "explicit",
+    "expected_category": "licensing complexity",
+    "markdown": "License activation problems can stop a whole edit room when seats need to move between machines during a deadline.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "explicit_collaboration_handoff_bottleneck",
+    "expected_evidence_type": "explicit",
+    "expected_category": "collaboration bottleneck",
+    "markdown": "Collaboration breaks down when assistants hand off session prep manually and producers cannot see what changed.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "inferred_save_hours_on_stem_exports",
+    "expected_evidence_type": "inferred_from_benefit",
+    "expected_category": "time cost",
+    "markdown": "Automatically prepares stems for delivery.",
+    "benefits": ["Save hours on every stem export package"],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "inferred_automate_repetitive_session_prep",
+    "expected_evidence_type": "inferred_from_benefit",
+    "expected_category": "manual work",
+    "markdown": "Build deliverables from your existing session templates.",
+    "benefits": ["Automate manual session prep and repetitive cleanup"],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "inferred_reduce_revision_rounds",
+    "expected_evidence_type": "inferred_from_benefit",
+    "expected_category": "review friction",
+    "markdown": "Centralized creative review for post teams.",
+    "benefits": ["Reduce revision rounds by keeping review notes tied to each cue"],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "inferred_simplify_license_admin",
+    "expected_evidence_type": "inferred_from_benefit",
+    "expected_category": "licensing complexity",
+    "markdown": "Manage access for editors and assistants.",
+    "benefits": ["Simplify license activation and seat management for audio teams"],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "inferred_keep_team_handoffs_in_sync",
+    "expected_evidence_type": "inferred_from_benefit",
+    "expected_category": "collaboration bottleneck",
+    "markdown": "Shared project state for studio teams.",
+    "benefits": ["Keep team handoffs in sync without extra coordination meetings"],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "keyword_manual_cleanup",
+    "expected_evidence_type": "keyword_fallback",
+    "expected_category": "manual work",
+    "markdown": "Includes templates for manual cleanup, naming, and delivery checks.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "keyword_batch_bounce",
+    "expected_evidence_type": "keyword_fallback",
+    "expected_category": "export/bounce overhead",
+    "markdown": "Batch bounce tools, stem naming presets, and deliverable folders are included.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "keyword_feedback_notes",
+    "expected_evidence_type": "keyword_fallback",
+    "expected_category": "review friction",
+    "markdown": "Feedback notes can be attached to tracks and exported with the session archive.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "keyword_subscription_seats",
+    "expected_evidence_type": "keyword_fallback",
+    "expected_category": "licensing complexity",
+    "markdown": "Subscription seats, activation status, and renewal reminders are visible in the admin panel.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "keyword_team_handoff",
+    "expected_evidence_type": "keyword_fallback",
+    "expected_category": "collaboration bottleneck",
+    "markdown": "Team handoff notes and shared session comments are available for every project.",
+    "benefits": [],
+    "expected_source_text_required": true
+  },
+  {
+    "id": "not_pain_export_button_cta",
+    "expected_evidence_type": "not_pain_point",
+    "expected_category": null,
+    "markdown": "Export presets are available. Start your free trial or book a demo today.",
+    "benefits": [],
+    "expected_source_text_required": false
+  },
+  {
+    "id": "not_pain_collaboration_feature",
+    "expected_evidence_type": "not_pain_point",
+    "expected_category": null,
+    "markdown": "Collaborate with your team using shared libraries, comments, and project folders.",
+    "benefits": [],
+    "expected_source_text_required": false
+  },
+  {
+    "id": "not_pain_license_plan_copy",
+    "expected_evidence_type": "not_pain_point",
+    "expected_category": null,
+    "markdown": "Choose the license plan that fits your studio. Monthly and annual options are available.",
+    "benefits": [],
+    "expected_source_text_required": false
+  },
+  {
+    "id": "not_pain_fast_bounce_feature",
+    "expected_evidence_type": "not_pain_point",
+    "expected_category": null,
+    "markdown": "Fast bounce mode supports WAV, AIFF, and MP3 exports from a single toolbar.",
+    "benefits": [],
+    "expected_source_text_required": false
+  },
+  {
+    "id": "not_pain_review_workspace",
+    "expected_evidence_type": "not_pain_point",
+    "expected_category": null,
+    "markdown": "Review workspace includes waveform previews, comments, and secure sharing links.",
+    "benefits": [],
+    "expected_source_text_required": false
+  }
+]

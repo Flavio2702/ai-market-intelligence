@@ -1,0 +1,119 @@
+topics:
+  - id: bounce_automation
+    label: Bounce Automation
+    description: Automated bouncing, stem export, batch delivery, and unattended Pro Tools export workflows.
+    seed_terms:
+      - bounce
+      - bounces
+      - bouncing
+      - batch bounce
+      - stem export
+      - stems
+      - exports
+      - deliverables
+      - offline bounce
+      - unattended
+      - pro tools sessions
+    positive_examples:
+      - Batch bounce stems, automate exports, and prepare deliverables from Pro Tools sessions.
+      - Unattended stem export and offline bounce automation for delivery workflows.
+    negative_examples:
+      - General audio editing without export or bounce automation evidence.
+      - Generic product downloads without stem or bounce workflow claims.
+  - id: licensing_model
+    label: Licensing Model
+    description: Product licensing, activation, renewal, subscription, seat, and plan-limit content.
+    seed_terms:
+      - license
+      - licensing
+      - activation
+      - subscription
+      - renewal
+      - seats
+      - seat
+      - plan limits
+      - studio plan
+      - ilok
+      - perpetual
+    positive_examples:
+      - Compare subscription seats, license activation, renewal options, and studio plan limits.
+      - License activation and subscription renewal details for audio production teams.
+    negative_examples:
+      - Pricing pages that only mention price without license, activation, or seat details.
+      - Support content unrelated to account activation or subscription management.
+  - id: workflow_efficiency
+    label: Workflow Efficiency
+    description: Time savings, handoff reduction, manual-work reduction, repeatable cleanup, and process efficiency.
+    seed_terms:
+      - workflow
+      - workflows
+      - manual
+      - repetitive
+      - cleanup
+      - handoffs
+      - delays
+      - save time
+      - time savings
+      - productivity
+      - efficient
+      - efficiency
+    positive_examples:
+      - Reduce manual session prep, repetitive cleanup, handoffs, and review workflow delays.
+      - Save time by removing repetitive workflow steps for audio teams.
+    negative_examples:
+      - High-level creativity claims without concrete process or time-saving evidence.
+      - Product descriptions that mention modern teams but no workflow friction.
+  - id: pricing_strategy
+    label: Pricing Strategy
+    description: Pricing tiers, trials, monthly plans, enterprise quotes, discounts, and purchase terms.
+    seed_terms:
+      - pricing
+      - price
+      - tiers
+      - free trial
+      - trial
+      - monthly
+      - annual
+      - plans
+      - enterprise
+      - quote
+      - discount
+      - buy
+    positive_examples:
+      - Pricing tiers, free trial terms, monthly plans, and enterprise quotes are explained.
+      - Compare annual and monthly plans with trial and discount terms.
+    negative_examples:
+      - License activation instructions without pricing or purchase terms.
+      - Product feature pages that do not include plan or trial information.
+  - id: support_documentation
+    label: Support Documentation
+    description: Documentation, support guides, installation instructions, troubleshooting, manuals, and help content.
+    seed_terms:
+      - documentation
+      - docs
+      - support
+      - guide
+      - guides
+      - install
+      - installation
+      - troubleshooting
+      - manual
+      - help
+      - instructions
+      - setup
+    positive_examples:
+      - Documentation, support guides, install instructions, and troubleshooting help are available.
+      - Support manuals and setup instructions explain how to install and use the product.
+    negative_examples:
+      - Marketing pages that only mention support as a benefit.
+      - Pricing pages with no setup, troubleshooting, or documentation detail.
+  - id: unknown_other
+    label: Unknown / Other
+    description: Valid content that does not have enough evidence for a controlled strategic topic.
+    seed_terms:
+      - unknown
+      - other
+    positive_examples:
+      - Generic content with insufficient evidence for the controlled taxonomy.
+    negative_examples:
+      - Content with clear evidence for one or more strategic controlled topics.
